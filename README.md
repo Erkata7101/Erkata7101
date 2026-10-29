@@ -1,4 +1,4 @@
-# Hi, I'm Erkata 👋
+# Hi, I'm Erkata 
 ### Software Engineering Student | Aspiring Developer
 I'm learning to build practical software applications
 and solve real-world problems through programming.
